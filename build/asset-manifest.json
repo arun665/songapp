@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2ee08ae.chunk.css",
+    "main.js": "/static/js/main.f8d53074.chunk.js",
+    "main.js.map": "/static/js/main.f8d53074.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72bde10c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72bde10c.js.map",
+    "static/js/2.2cc52fec.chunk.js": "/static/js/2.2cc52fec.chunk.js",
+    "static/js/2.2cc52fec.chunk.js.map": "/static/js/2.2cc52fec.chunk.js.map",
+    "static/js/3.f6662998.chunk.js": "/static/js/3.f6662998.chunk.js",
+    "static/js/3.f6662998.chunk.js.map": "/static/js/3.f6662998.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d2ee08ae.chunk.css.map": "/static/css/main.d2ee08ae.chunk.css.map",
+    "static/js/2.2cc52fec.chunk.js.LICENSE.txt": "/static/js/2.2cc52fec.chunk.js.LICENSE.txt",
+    "static/media/gshit.04028c0d.mp3": "/static/media/gshit.04028c0d.mp3",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/vail.b5d38cce.mp4": "/static/media/vail.b5d38cce.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72bde10c.js",
+    "static/js/2.2cc52fec.chunk.js",
+    "static/css/main.d2ee08ae.chunk.css",
+    "static/js/main.f8d53074.chunk.js"
+  ]
+}
